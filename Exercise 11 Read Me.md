@@ -1,6 +1,3 @@
-1. Create a website about your favorite anime, book, series, or etc.
-2. The website must be responsive
-3. The website must be created using bootstrap
-4. Maximize the use of fontawesome/bootstrap icons
-5. Maximize the use of flex elements
- Exercise 11
+#Manga Website
+##This is a frontend only project that uses Bootstrap 5 and a bit of custom CSS.
+## To view the site live, visit: https://denisedee-sudo.github.io/WD11_EXERCISE11_DE_JESUS/WD11_EXERCISE11_DE_JESUS.html
