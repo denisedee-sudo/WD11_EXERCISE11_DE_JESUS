@@ -1,0 +1,22 @@
+
+.hover-big{
+    transition: transform .35s;
+}
+.hover-big:hover{
+    transform: scale(1.04);
+}
+.visible-lg {
+    visibility: hidden !important;
+    }
+
+    @media only screen and (min-width: 992px) {
+        .visible-lg {
+        visibility: visible !important;
+        }
+    }
+
+    @media only screen and (max-width: 575px) {
+        .invisible-xs {
+        display: none !important;
+        }
+    }
